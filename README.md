@@ -8,7 +8,7 @@
 Our apprach considers various factors such as property locations, amenities, host ownership, substitution between nearby listings, etc to maximize the host’s profit. The structural model captures supply & demand dynamics and machine learning helps identify consumer consideration set (hotspot market). We also use machine learning for price prediction to utilize rich features better.  
 
 ### Our project not only identifies the popular hostspots through K-means clustering but also provides insights into the rate of return for each hotspots. 
-The following graph (RHS) displays the clustered regions, with each area colored based on the rate of return. It's important to note that the graph on the left-hand side displays the market by default neightbourhood which might not accurately reprensent the consumer's actual consideration set. 
+The following graph right-hand side displays the clustered regions, with each area colored based on the rate of return. It's important to note that the graph on the left-hand side displays the market by default neightbourhood which might not accurately reprensent the consumer's actual consideration set. 
 
 <img src="https://github.com/PSha98/Erdos_Spring_2023/blob/main/Plot/150clusters_rate_of_return.png" alt="Image" width="100%">
 
